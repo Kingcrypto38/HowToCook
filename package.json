@@ -20,7 +20,7 @@
   },
   "homepage": "https://cook.aiurs.co",
   "dependencies": {
-    "textlint": "^12.1.0",
+    "textlint": "^13.4.1",
     "textlint-rule-ja-space-between-half-and-full-width": "^2.2.0",
     "textlint-rule-zh-half-and-full-width-bracket": "^1.1.0"
   },

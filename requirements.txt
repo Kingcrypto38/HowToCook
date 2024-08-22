@@ -1,3 +1,4 @@
 mkdocs-material
 mkdocs-same-dir
 mkdocs-minify-plugin
+jinja2>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
